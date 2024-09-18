@@ -391,7 +391,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background-image: url("../images/about/about-header.jpg");
+  background-image: url("../assets/slider-bg-1.jpg");
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
@@ -856,7 +856,7 @@ a:focus, a:hover {
 ==================================================================*/
 .call-to-action {
   padding: 100px 0;
-  background: url("../assets/call-to-action-bg-2.jpg");
+  background: url("../assets/call-to-action-bg.jpg");
   background-size: cover;
   color: #fff;
 }
@@ -1066,7 +1066,7 @@ a:focus, a:hover {
 ==================================================================*/
 .pricing-table {
   padding: 100px 0;
-  background: url("../images/pricing-bg.jpg");
+  background: url("../assets/pricing-bg.jpg");
   position: relative;
 }
 
